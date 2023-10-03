@@ -25,6 +25,7 @@ library(lusongtest)
 set.seed(23)
 dat <- rnorm(20, mean = 2, sd = 1)
 lu.test(dat, sigma.squared = 0.5)
+#>
 #> 	       Lu-Song Test
 #>          
 #> data:  dat
@@ -34,5 +35,6 @@ lu.test(dat, sigma.squared = 0.5)
 #>  0.4045517 1.0342297
 #> sample estimates:
 #> variance 
-#> 0.753708 
+#> 0.753708
+#>
 ```
