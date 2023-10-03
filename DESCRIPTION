@@ -1,0 +1,10 @@
+Package: lusongtest
+Title: Package for Performing a One-Sample Lu-Song Test on Variance
+Version: 0.0.0.9000
+Authors@R: 
+    person("Peter", "Manthey", , "prjmanthey@gmail.com", role = c("aut", "cre"))
+Description: Package for Performing a One-Sample Lu-Song Test on Variance.
+License: GPL (>= 2)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
