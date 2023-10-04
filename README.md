@@ -1,6 +1,7 @@
 # lusongtest
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/prjmanthey/lusongtest/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/prjmanthey/lusongtest/actions/workflows/R-CMD-check.yaml)
+[![codecov](https://codecov.io/gh/prjmanthey/lusongtest/graph/badge.svg?token=VSIIQTOI0S)](https://codecov.io/gh/prjmanthey/lusongtest)
 <!-- badges: end -->
 
 ## Overview
