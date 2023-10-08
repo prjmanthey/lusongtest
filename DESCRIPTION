@@ -1,6 +1,6 @@
 Package: lusongtest
 Title: Package for Performing a One-Sample Lu-Song Test on Variance
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
     person("Peter", "Manthey", , "prjmanthey@gmail.com", role = c("aut", "cre"))
 Description: Package for Performing a One-Sample Lu-Song Test on Variance.
