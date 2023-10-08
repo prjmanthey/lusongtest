@@ -6,7 +6,10 @@
 
 ## Overview
 
-Package Overview to be added soon
+lusongtest is an R package that provides a tool for performing a One-Sample Lu-Song Test on Variance. This can be accomplished by using the function `lu.test()` a numeric vector of observations. The Lu-Song test is a nonparametric hypothesis test that can be used as an alternative to the One-Sample Chi-Squared Test on Variance when there are concerns regarding the normality of the data. The function also utilizes bootstrapping to generate a confidence interval that is presented along with the hypothesis test results.
+
+The methodology this package uses to perform Lu-Song tests was adapted from the 2011 paper “*U*-Statistics Testing Method in Testing Variance Differences of a Single Population” by Yuan-yuan Lu and Li-xin Song. The `lu.test()` function itself was adapted from the `varTest()` function from the [EnvStats](https://cran.r-project.org/web/packages/EnvStats/index.html) R package. The syntax for the bootstrapped confidence interval was adapted from the syntax used in the [rcompanion](https://rcompanion.org/handbook/) R package.
+
 
 ## Installation
 
